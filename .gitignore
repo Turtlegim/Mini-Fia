@@ -1,0 +1,4 @@
+#Unreal Engine Temp Files
+.DerivedDataCache/*
+.Intermediate/*
+.Saved/*
